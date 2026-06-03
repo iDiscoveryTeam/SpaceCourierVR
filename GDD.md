@@ -417,6 +417,21 @@ L'Hub è la base "sicura" della famiglia del protagonista. Cresce visivamente e 
 
 Riepilogo di tutte le decisioni aperte che il team deve discutere e risolvere prima di procedere con lo sviluppo:
 
+
+
+
+⚠️⚠️
+	1. vr o no?
+	2.  se vr: standalone o no ?
+	3. obbiettivo: 
+		 - espandere conoscenze
+		 - farsi conoscere ig/fiere
+		 - lucrare non fine principale, ma possibilitá
+	4. multiplayer o no? -> obbiettivo futuro?
+	5. 
+
+
+
 ### 🔴 Priorità Alta (bloccanti per lo sviluppo)
 
 - [ ] **Metodo di locomozione VR** — teletrasporto, smooth, o entrambi con opzione?
